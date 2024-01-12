@@ -1,0 +1,28 @@
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\Fatih\Desktop\YZL3171\10-API\11.01\ImdbProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\ref\DAL.dll
