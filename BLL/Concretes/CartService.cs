@@ -12,18 +12,26 @@ namespace BLL.Concretes
 {
     public class CartService : ICartService
     {
+
         private readonly ImdbdataContext _context;
 
         public CartService(ImdbdataContext context)
         {
             _context = context;
         }
-        public  async Task<ResultDTO> AddToCart(int movieId)
+        public async Task<ResultDTO> AddToCart(MovieDTO movie)
         {
+
+
             try
             {
-                var movie =await _context.Movies.FirstOrDefaultAsync(x=>x.Id==movieId); 
-                if (movie == null)
+                var addToCart = await _context.Movies.FirstOrDefaultAsync(x => x.Id == movie.ID);
+                await _context.Movies.AddAsync(addToCart);
+                await _context.SaveChangesAsync();
+
+
+
+                if (AddToCart == null)
                 {
                     return new ResultDTO
                     {
@@ -36,7 +44,7 @@ namespace BLL.Concretes
                 {
                     Status = true,
                     StatusCode = 200,
-                    Message = $"{movie.Title} sepete eklendi."
+                    Message = $"{addToCart.Title} sepete eklendi."
                 };
             }
             catch (Exception ex)
@@ -54,6 +62,8 @@ namespace BLL.Concretes
         public async Task<List<MovieDTO>> GetCartItems()
         {
             var cartItems = await _context.Movies.Select(x => new MovieDTO
+
+
             {
                 ID = x.Id,
                 MovieName = x.Title,
@@ -63,15 +73,15 @@ namespace BLL.Concretes
                 Message = "Listeleme başarılı"
 
             }).ToListAsync();
-            return cartItems;   
+            return cartItems;
         }
 
-        public async Task<ResultDTO> RemoveFromCart(int movieId)
+        public async Task<ResultDTO> RemoveFromCart(MovieDTO movie)
         {
             try
             {
-                var movie = await _context.Movies.FirstOrDefaultAsync(x => x.Id == movieId);
-                if(movie==null)
+                var removeFromCart = await _context.Movies.FirstOrDefaultAsync(x => x.Id == movie.ID);
+                if (removeFromCart == null)
                 {
                     return new ResultDTO
                     {
@@ -84,7 +94,7 @@ namespace BLL.Concretes
                 {
                     Status = true,
                     StatusCode = 200,
-                    Message = $"{movie.Title} sepetten kaldırıldı."
+                    Message = $"{removeFromCart.Title} sepetten kaldırıldı."
                 };
             }
             catch (Exception ex)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ML0dezkz1eL6mQWKEwm1x8jC1aEm14Ott7/w0nu4FJTT4K5qvhLWG7Y4ONoC76sfTLNNfD0UBmY0m+8/KiNVVQ==",
+  "dgSpecHash": "zHmSB8E6nIHVHwNNfBmDlMRVKSUBj0ONrB6yEIz2KadaiRB+8jZsnxMqtWHaN32c2fPKJfZ5r9LCK7K6LXRceg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nolim\\OneDrive\\Masaüstü\\GitHubProjelerKurs\\ImdbProject\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\nolim\\OneDrive\\Masaüstü\\10-API-main (6)\\10-API-main\\11.01\\ImdbProject\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nolim\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nolim\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

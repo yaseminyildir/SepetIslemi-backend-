@@ -26,3 +26,17 @@ C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\D
 C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.pdb
 C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
 C:\Users\nolim\Downloads\10-API-main (6)\10-API-main\11.01\ImdbProject\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\nolim\OneDrive\Masaüstü\GitHubProjelerKurs\ImdbProject\DAL\obj\Debug\net7.0\ref\DAL.dll

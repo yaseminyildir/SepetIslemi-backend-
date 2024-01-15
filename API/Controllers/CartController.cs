@@ -1,4 +1,6 @@
 ﻿using BLL.Abstracts;
+using BLL.Concretes;
+using BLL.DTO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Routing;
@@ -16,19 +18,29 @@ namespace API.Controllers
            _cart = cart;
         }
         [HttpPost]
-        public IActionResult AddToCart(int movieId)
+        public async Task <IActionResult> AddToCart(MovieDTO movie)
         {
-            return Ok();
+           
+            var result= await _cart.AddToCart(movie);
+            if (result.Status)
+            {
+                return Ok(result);
+            }
+            else
+            {
+                return BadRequest(result);
+            }
         }
 
         [HttpGet]
-        public IActionResult GetCartItems()
+        public async Task< IActionResult> GetCartItems()
         {
-            return Ok(_cart.GetCartItems());
+
+            return Ok(_cart.GetCartItems()) ;
         }
 
         [HttpDelete]
-        public IActionResult RemoveFromCart(int movieId)
+        public async Task< IActionResult> RemoveFromCart(MovieDTO movie)
         {
             return Ok();
         }
